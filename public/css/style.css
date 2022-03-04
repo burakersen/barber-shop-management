@@ -1,0 +1,50 @@
+html, body{
+    height: 100%;
+}
+nav {
+    background: #ee1c25;
+    color: #fff;
+}
+
+nav .container .logo .logo-link{
+    font-size: 1.5em;
+}
+
+nav .container button a, nav .container button a:link, nav .container button a:active, nav .container button a:visited, nav .container button a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
+.link-white, .link-white:link, .link-white:active, .link-white:visited, .link-white:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table{
+    table-layout: fixed;
+}
+td{
+    width: 33%;
+}
+
+.today{
+    background: yellow!important;
+}
+.activeTime{
+    background-color: #157347;
+    opacity: 1;
+    box-shadow: 0 0 0 0.25rem rgb(60 153 110 / 70%);
+}
